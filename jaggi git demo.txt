@@ -1,1 +1,2 @@
 jaggi is learning git
+jaggi learnt how to commit
